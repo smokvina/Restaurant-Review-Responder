@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Review Responder",
+  "description": "An AI-powered assistant for restaurant managers to generate professional and personalized replies to customer reviews in any language.",
+  "requestFramePermissions": []
+}
